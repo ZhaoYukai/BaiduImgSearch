@@ -13,6 +13,7 @@ pip install -U requests
 ```
 进行安装
 <br>
+<br>
 运行方法：
 ```
 python baiduImgSearch.py dog /Users/zhaoyukai/Python/baiduImgs/ 10
