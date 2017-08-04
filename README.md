@@ -1,11 +1,12 @@
 # BaiduImgSearch
 百度图片爬虫
 
-推荐运行在MacOS或linux操作系统下面，Windows运行会遇到字符编码的问题尚未解决
+推荐运行在MacOS或linux操作系统下面，Windows运行会遇到字符编码的问题尚未解决<br>
+如果在windows下运行可能会报ValueError: No JSON object could be decoded的错误
 
 Python版本：2.7
 
-运行方法：在命令行中输入下列命令，同时确保机器中已经安装了python的requests模块
+运行方法：在命令行中输入下列命令，同时确保机器中已经安装了python的requests模块<br>
 如果尚未安装requests模块，则使用命令<br>pip install -U requests<br>进行安装
 
 python baiduImgSearch.py dog /Users/zhaoyukai/Python/baiduImgs/ 10
