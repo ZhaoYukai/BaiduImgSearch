@@ -7,11 +7,12 @@
 Python版本：2.7
 
 运行方法：在命令行中输入下列命令，同时确保机器中已经安装了python的requests模块<br>
-如果尚未安装requests模块，则使用命令<br>
+如果尚未安装requests模块，则使用命令
 ```
 pip install -U requests
 ```
-<br>进行安装
+进行安装
+
 ```
 python baiduImgSearch.py dog /Users/zhaoyukai/Python/baiduImgs/ 10
 ```
